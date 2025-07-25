@@ -1,0 +1,9 @@
+version: 7
+name: franklin-templeton
+display_name: franklin-templeton
+description: Franklin Templeton is a global leader in asset management. They provide ETFs and mutual funds.
+websites:
+  - url: https://www.franklintempleton.com/
+social:
+  twitter:
+    - url: https://x.com/FTI_Global
